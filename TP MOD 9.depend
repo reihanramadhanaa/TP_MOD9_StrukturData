@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1699794673 source:c:\struktur data codeblock c++\tp mod 9\main.cpp
+	<iostream>
+	"stack.h"
+
+1699794658 c:\struktur data codeblock c++\tp mod 9\stack.h
+
+1699792063 source:c:\struktur data codeblock c++\tp mod 9\stack.cpp
+	<iostream>
+	"stack.h"
+
